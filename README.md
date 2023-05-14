@@ -1,2 +1,2 @@
 # yandex-data-science
-This repository contains projects that I during 8-month Data Scientist courses from Yandex.
+This repository contains projects I made during 8-month Data Scientist courses from Yandex.
