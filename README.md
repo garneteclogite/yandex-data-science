@@ -23,7 +23,18 @@ Please note that initially the descriptions for the projects were made in Russia
                 Implementing a computer vision system to process customer photos.
             </td>
             <td>
-                 <code>pandas</code> <code>matplotlib</code> <code>numpy</code> <code>tensorflow</code> <code>keras</code>
+                 <code>pandas</code> <code>matplotlib</code> <code>numpy</code> <code>tensorflow</code> <code>keras</code> <code>lightgbm</code
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Binary%20text%20classification.ipynb">Binary text classification</a>
+            </td>
+            <td>
+                Machine learning models to classify comments into positive and negative ones.
+            </td>
+            <td>
+                 <code>pandas</code> <code>matplotlib</code> <code>numpy</code> <code>seaborn</code> <code>nltk</code> <code>sklearn</code> <code>lightgbm</code> <code>wordcloud</code> 
             </td>
         </tr>
     </tbody>
