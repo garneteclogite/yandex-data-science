@@ -23,7 +23,7 @@ Please note that initially the descriptions for the projects were made in Russia
                 Implementing a computer vision system to process customer photos.
             </td>
             <td>
-                 <code>pandas</code> <code>matplotlib</code> <code>numpy</code> <code>tensorflow</code> <code>keras</code> <code>lightgbm</code
+                 <code>pandas</code> <code>matplotlib</code> <code>numpy</code> <code>tensorflow</code> <code>keras</code> <code>sklearn</code> <code>lightgbm</code
             </td>
         </tr>
         <tr>
