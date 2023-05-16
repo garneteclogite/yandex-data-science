@@ -21,7 +21,7 @@ This repository contains projects I made during 8-month Data Scientist courses b
                 Implementing a computer vision system to process customer photos.
             </td>
             <td>
-                 <code>pandas matplotlib numpy tensorflow.keras </code>
+                 <code>pandas</code> <code>matplotlib</code> <code>numpy</code> <code>tensorflow</code> <code>keras</code>
             </td>
         </tr>
     </tbody>
