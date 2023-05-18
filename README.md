@@ -37,5 +37,16 @@ Please note that initially the descriptions for the projects were made in Russia
                  <code>pandas</code> <code>matplotlib</code> <code>numpy</code> <code>seaborn</code> <code>nltk</code> <code>sklearn</code> <code>lightgbm</code> <code>wordcloud</code> 
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Final%20Project.%20Customer%20churn%20prediction%20for%20a%20telecom%20provider.ipynb">Final Project. Customer churn prediction for a telecom provider</a>
+            </td>
+            <td>
+                Developing a machine-learning model for a telecom operator capable of predicting customer churn.
+            </td>
+            <td>
+                 <code>pandas</code> <code>matplotlib</code> <code>numpy</code> <code>seaborn</code> <code>sklearn</code> <code>lightgbm</code> <code>phik</code>
+            </td>
+        </tr>
     </tbody>
 </table>
