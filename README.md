@@ -1,7 +1,7 @@
 # yandex-data-science
 This repository contains projects I made during 8-month Data Scientist courses by Yandex. 
 
-Please note that initially the descriptions for the projects were made in Russian for the convenience of reviewers. Therefore, don't be surprised if you see some sentences in Russian. However, I hope this does not make it difficult for you to understand the solutions I proposed.
+Please note that initially the descriptions for the projects were made in Russian for the convenience of reviewers. Therefore, don't be surprised if you see Russian sentences in some projects. I am gradually translating project descriptions into English. I hope this does not make it difficult for you to understand my proposed solutions. Enjoy!
 <table>
     <tbody>
         <tr>
