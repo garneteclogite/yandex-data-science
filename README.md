@@ -15,6 +15,17 @@ Please note that initially the descriptions for the projects were made in Russia
                 <strong>Used libraries and tools</strong>
             </td>
         </tr>
+            <tr>
+            <td>
+                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Fundamentals%20of%20Python%20and%20Data%20Analysis.%20Research%20for%20Yandex%20Music.ipynb">Fundamentals of Python and Data Analysis. Research for Yandex Music.</a>
+            </td>
+            <td>
+               Using basic Python and Pandas tools to analyze music genre preferences of people from Moscow and St. Petersburg.
+            </td>
+            <td>
+               <code>python</code> <code>pandas</code>
+            </td>
+        </tr>
         <tr>
             <td>
                 <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Time%20series.%20Taxi%20orders%20forecasting.ipynb">Time series. Taxi orders forecasting</a>
@@ -24,17 +35,6 @@ Please note that initially the descriptions for the projects were made in Russia
             </td>
             <td>
                 <code>pandas</code> <code>matplotlib</code> <code>statsmodels</code> <code>sklearn</code> <code>lightgbm</code>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Fundamentals%20of%20Python%20and%20Data%20Analysis.%20Research%20for%20Yandex%20Music.ipynb">Fundamentals of Python and Data Analysis. Research for Yandex Music.</a>
-            </td>
-            <td>
-               Using basic Python and Pandas tools to analyze music genre preferences of people from Moscow and St. Petersburg.
-            </td>
-            <td>
-               <code>python</code> <code>pandas</code>
             </td>
         </tr>
         <tr>
