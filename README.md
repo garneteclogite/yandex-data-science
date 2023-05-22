@@ -9,6 +9,9 @@ Please note that initially the descriptions for the projects were made in Russia
                 <strong>Project</strong>
             </td>
             <td>
+                Language of the project descriptions and notes
+            </td>
+            <td>
                 <strong>Short Description</strong>
             </td>
             <td>
