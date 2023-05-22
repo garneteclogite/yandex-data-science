@@ -50,13 +50,13 @@ Please note that initially the descriptions for the projects were made in Russia
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Age%20estimation%20via%20face%20images.ipynb">Age estimation via face images (in English)</a>
+                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Age%20estimation%20via%20face%20images.ipynb">Age estimation via face images \n (in English)</a>
             </td>
             <td>
                 Implementing a computer vision system to process customer photos.
             </td>
             <td>
-                 <code>pandas</code> <code>matplotlib</code> <code>numpy</code> <code>tensorflow</code> <code>keras</code> <code>sklearn</code> <code>lightgbm</code
+                <code>pandas</code> <code>matplotlib</code> <code>numpy</code> <code>tensorflow</code> <code>keras</code> <code>sklearn</code> <code>lightgbm</code
             </td>
         </tr>
         <tr>
