@@ -4,6 +4,17 @@ This repository contains projects I made during 8-month Data Scientist courses b
 Please note that initially the descriptions for the projects were made in Russian for the convenience of reviewers. Therefore, don't be surprised if you see Russian sentences in some projects. I am gradually translating project descriptions into English. I hope this does not make it difficult for you to understand my proposed solutions. Enjoy!
 <table>
     <tbody>
+         <tr>
+            <td>
+                <strong>Project</strong>
+            </td>
+            <td>
+                <strong>Short Description</strong>
+            </td>
+            <td>
+                <strong>Used libraries and tools</strong>
+            </td>
+        </tr>
         <tr>
             <td>
                 <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Fundamentals%20of%20Python%20and%20Data%20Analysis.%20Research%20for%20Yandex%20Music.ipynb">Fundamentals of Python and Data Analysis. Research for Yandex Music</a>
@@ -13,17 +24,6 @@ Please note that initially the descriptions for the projects were made in Russia
             </td>
             <td>
                  <code>python</code> <code>pandas</code>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <strong>Project</strong>
-            </td>
-            <td>
-                <strong>Short Description</strong>
-            </td>
-            <td>
-                <strong>Used libraries and tools</strong>
             </td>
         </tr>
         <tr>
