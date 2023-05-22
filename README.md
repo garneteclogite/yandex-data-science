@@ -5,7 +5,7 @@ All projects are done in Jupyter notebooks (.ipynb).
 
 The table below provides information about these projects. Projects are listed in chronological order.
 
-Initially, notebooks descriptions for projects were made in Russian for the convenience of reviewers. <br/> But I am gradually translating project descriptions into English. Don't be surprised if you see Russian sentences in some notebooks. Information about the language of a notebook is available in brackets after the project name.
+Initially, notebooks descriptions for projects were made in Russian for the convenience of reviewers. <br/> But I am gradually translating project descriptions into English. Don't be surprised if you see Russian sentences in some notebooks. <br/>Information about the language of a notebook is available in brackets after the project name.
 
 Enjoy!
 <table>
