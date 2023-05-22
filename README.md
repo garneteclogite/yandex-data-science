@@ -17,7 +17,7 @@ Please note that initially the descriptions for the projects were made in Russia
         </tr>
             <tr>
             <td>
-                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Fundamentals%20of%20Python%20and%20Data%20Analysis.%20Research%20for%20Yandex%20Music.ipynb">Fundamentals of Python and Data Analysis. Research for Yandex Music. (in Russian)</a>
+                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Fundamentals%20of%20Python%20and%20Data%20Analysis.%20Research%20for%20Yandex%20Music.ipynb">Fundamentals of Python and Data Analysis. Research for Yandex Music <br/> (in Russian)</a>
             </td>
             <td>
                Using basic Python and Pandas tools to analyze music genre preferences of people from Moscow and St. Petersburg.
