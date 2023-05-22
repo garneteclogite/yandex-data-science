@@ -17,13 +17,24 @@ Please note that initially the descriptions for the projects were made in Russia
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Fundamentals%20of%20Python%20and%20Data%20Analysis.%20Research%20for%20Yandex%20Music.ipynb">Fundamentals of Python and Data Analysis. Research for Yandex Music</a>
+                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Time%20series.%20Taxi%20orders%20forecasting.ipynb">Time series. Taxi orders forecasting</a>
             </td>
             <td>
-                An introduction to the basic tools of Python and the Pandas library for Data Analysis. Identification of musical preferences of people in Moscow and St. Petersburg.
+                Time series analysis and the use of machine learning models for optimizing taxi service operation.
             </td>
             <td>
-                 <code>python</code> <code>pandas</code>
+                <code>pandas</code> <code>matplotlib</code> <code>statsmodels</code> <code>sklearn</code> <code>lightgbm</code>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Final%20Project.%20Customer%20churn%20prediction%20for%20a%20telecom%20provider.ipynb">Final Project. Customer churn prediction for a telecom provider</a>
+            </td>
+            <td>
+                Developing a machine-learning model for a telecom operator capable of predicting customer churn.
+            </td>
+            <td>
+                 <code>pandas</code> <code>matplotlib</code> <code>numpy</code> <code>seaborn</code> <code>sklearn</code> <code>lightgbm</code> <code>phik</code>
             </td>
         </tr>
         <tr>
