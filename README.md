@@ -9,9 +9,6 @@ Please note that initially the descriptions for the projects were made in Russia
                 <strong>Project</strong>
             </td>
             <td>
-                Language of the project descriptions and notes
-            </td>
-            <td>
                 <strong>Short Description</strong>
             </td>
             <td>
@@ -20,7 +17,7 @@ Please note that initially the descriptions for the projects were made in Russia
         </tr>
             <tr>
             <td>
-                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Fundamentals%20of%20Python%20and%20Data%20Analysis.%20Research%20for%20Yandex%20Music.ipynb">Fundamentals of Python and Data Analysis. Research for Yandex Music.</a>
+                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Fundamentals%20of%20Python%20and%20Data%20Analysis.%20Research%20for%20Yandex%20Music.ipynb">Fundamentals of Python and Data Analysis. Research for Yandex Music. (in Russian)</a>
             </td>
             <td>
                Using basic Python and Pandas tools to analyze music genre preferences of people from Moscow and St. Petersburg.
@@ -31,7 +28,7 @@ Please note that initially the descriptions for the projects were made in Russia
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Time%20series.%20Taxi%20orders%20forecasting.ipynb">Time series. Taxi orders forecasting</a>
+                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Time%20series.%20Taxi%20orders%20forecasting.ipynb">Time series. Taxi orders forecasting. (in Russian)</a>
             </td>
             <td>
                 Time series analysis and the use of machine learning models for optimizing taxi service operation.
@@ -42,18 +39,18 @@ Please note that initially the descriptions for the projects were made in Russia
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Binary%20text%20classification.ipynb">Binary text classification</a>
+                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Binary%20text%20classification.ipynb">Binary text classification (in English)</a>
             </td>
             <td>
                 Machine learning models to classify comments into positive and negative ones.
             </td>
             <td>
-                 <code>pandas</code> <code>matplotlib</code> <code>numpy</code> <code>seaborn</code> <code>nltk</code> <code>sklearn</code> <code>lightgbm</code> <code>wordcloud</code> 
+                <code>pandas</code> <code>matplotlib</code> <code>numpy</code> <code>seaborn</code> <code>nltk</code> <code>sklearn</code> <code>lightgbm</code> <code>wordcloud</code> 
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Age%20estimation%20via%20face%20images.ipynb">Age estimation via face images</a>
+                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Age%20estimation%20via%20face%20images.ipynb">Age estimation via face images (in English)</a>
             </td>
             <td>
                 Implementing a computer vision system to process customer photos.
@@ -64,7 +61,7 @@ Please note that initially the descriptions for the projects were made in Russia
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Final%20Project.%20Customer%20churn%20prediction%20for%20a%20telecom%20provider.ipynb">Final Project. Customer churn prediction for a telecom provider</a>
+                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Final%20Project.%20Customer%20churn%20prediction%20for%20a%20telecom%20provider.ipynb">Final Project. Customer churn prediction for a telecom provider (in English)</a>
             </td>
             <td>
                 Developing a machine-learning model for a telecom operator capable of predicting customer churn.
