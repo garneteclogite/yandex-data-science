@@ -20,7 +20,7 @@ Please note that initially the descriptions for the projects were made in Russia
                 <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/Fundamentals%20of%20Python%20and%20Data%20Analysis.%20Research%20for%20Yandex%20Music.ipynb">Fundamentals of Python and Data Analysis. Research for Yandex Music</a>
             </td>
             <td>
-                An introduction to the basic tools of Python and the Pandas library for Data Analysis. 
+                An introduction to the basic tools of Python and the Pandas library for Data Analysis. Identification of musical preferences of people in Moscow and St. Petersburg.
             </td>
             <td>
                  <code>python</code> <code>pandas</code>
