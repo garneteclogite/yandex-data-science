@@ -32,6 +32,18 @@ Enjoy!
                <code>python</code> <code>pandas</code>
             </td>
         </tr>
+        </tr>
+            <tr>
+            <td>
+                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/02.%20Data%20preprocessing.%20Research%20on%20the%20reliability%20of%20bank%20creditors.ipynb">Data preprocessing. Research on the reliability of bank creditors <br/> (in Russian)</a>
+            </td>
+            <td>
+               Using basic Pandas tools to preprocess data before Exploratory Data Analysis. Case study - research on the reliability of bank borrowers.
+            </td>
+            <td>
+               <code>python</code> <code>pandas</code>
+            </td>
+        </tr>
         <tr>
             <td>
                 <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/12.%20Time%20series.%20Taxi%20orders%20forecasting.ipynb">Time series. Taxi orders forecasting <br/> (in Russian)</a>
