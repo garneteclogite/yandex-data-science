@@ -45,6 +45,18 @@ Enjoy!
             </td>
         </tr>
         <tr>
+            <tr>
+            <td>
+               <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/03.%20Exploratory%20data%20analysis.%20Yandex%20Real%20Estate.ipynb?short_path=9564948">Exploratory data analysis. Yandex Real Estate <br/> (in Russian)</a>
+            </td>
+            <td>
+               Exploratory data analysis for the service "Yandex Real Estate". Deep data preprocessing and searching for dependencies in the data.
+            </td>
+            <td>
+               <code>python</code> <code>pandas</code> <code>matplotlib</code>
+            </td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/12.%20Time%20series.%20Taxi%20orders%20forecasting.ipynb">Time series. Taxi orders forecasting <br/> (in Russian)</a>
             </td>
