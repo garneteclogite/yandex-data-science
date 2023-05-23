@@ -57,6 +57,18 @@ Enjoy!
             </td>
         </tr>
         <tr>
+            <tr>
+            <td>
+               <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/04.%20Statistical%20data%20analysis.ipynb">Statistical data analysis <br/> (in English)</a>
+            </td>
+            <td>
+               Statistical data analysis for a telecom operator in order to forecast revenue and recommend tariffs.
+            </td>
+            <td>
+               <code>python</code> <code>pandas</code> <code>matplotlib</code> <code>numpy</code> <code>seaborn</code> <code>scipy</code> 
+            </td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/12.%20Time%20series.%20Taxi%20orders%20forecasting.ipynb">Time series. Taxi orders forecasting <br/> (in Russian)</a>
             </td>
