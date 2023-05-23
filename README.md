@@ -47,7 +47,7 @@ Enjoy!
         <tr>
             <tr>
             <td>
-               <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/03.%20Exploratory%20data%20analysis.%20Yandex%20Real%20Estate.ipynb?short_path=9564948">Exploratory data analysis. Yandex Real Estate <br/> (in Russian)</a>
+               <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/03.%20Exploratory%20data%20analysis.%20Yandex%20Real%20Estate.ipynb">Exploratory data analysis. Yandex Real Estate <br/> (in Russian)</a>
             </td>
             <td>
                Exploratory data analysis for the service "Yandex Real Estate". Deep data preprocessing and searching for dependencies in the data.
