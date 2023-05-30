@@ -69,6 +69,18 @@ Enjoy!
             </td>
         </tr>
         <tr>
+            <tr>
+            <td>
+               <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/06.%20Introduction%20to%20machine%20learning.ipynb">Introduction to machine learning <br/> (in English)</a>
+            </td>
+            <td>
+               An introduction to the basic principles of machine learning. A case study is a recommendation for mobile operators' tariffs to clients.
+            </td>
+            <td>
+               <code>python</code> <code>pandas</code> <code>sklearn</code>
+            </td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/12.%20Time%20series.%20Taxi%20orders%20forecasting.ipynb">Time series. Taxi orders forecasting <br/> (in Russian)</a>
             </td>
