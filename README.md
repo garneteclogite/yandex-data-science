@@ -71,6 +71,18 @@ Enjoy!
         <tr>
             <tr>
             <td>
+               <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/05.%20Examination%20project%20for%20the%20first%20module%20Fundamentals%20of%20Data%20Analysis.ipynb">Examination project for the first module "Fundamentals of Data Analysis" <br/> (in Russian)</a>
+            </td>
+            <td>
+               Using preprocessing data, exploratory data analysis, and statistical analysis to study video game sales trends.
+            </td>
+            <td>
+               <code>python</code> <code>pandas</code> <code>matplotlib</code> <code>seaborn</code> <code>scipy</code> 
+            </td>
+        </tr>
+        <tr>
+            <tr>
+            <td>
                <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/06.%20Introduction%20to%20machine%20learning.ipynb">Introduction to machine learning <br/> (in English)</a>
             </td>
             <td>
