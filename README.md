@@ -93,6 +93,18 @@ Enjoy!
             </td>
         </tr>
         <tr>
+            <tr>
+            <td>
+               <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/07.%20Supervised%20machine%20learning.ipynb">Supervised machine learning <br/> (in English)</a>
+            </td>
+            <td>
+               Using supervised machine learning for the classification task. Predicting bank customer churn.
+            </td>
+            <td>
+               <code>python</code> <code>pandas</code> <code>matplotlib</code> <code>sklearn</code>
+            </td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://github.com/garneteclogite/yandex-data-science/blob/main/12.%20Time%20series.%20Taxi%20orders%20forecasting.ipynb">Time series. Taxi orders forecasting <br/> (in Russian)</a>
             </td>
@@ -100,7 +112,7 @@ Enjoy!
                 Time series analysis and the use of machine learning models for optimizing taxi service operation.
             </td>
             <td>
-                <code>pandas</code> <code>matplotlib</code> <code>statsmodels</code> <code>sklearn</code> <code>lightgbm</code>
+                <code>pandas</code> <code>matplotlib</code> <code>sklearn</code> <code>statsmodels</code> <code>lightgbm</code>
             </td>
         </tr>
         <tr>
